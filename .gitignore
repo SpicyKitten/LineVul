@@ -5,3 +5,7 @@ linevul/saved_models/*
 linevul/*.pdf
 linevul/train.log
 set/true_positives/
+set/logs/
+set/results/
+set/results.csv
+set/transformed/
